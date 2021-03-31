@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancelScreenSaver.net5", "CancelScreenSaver.net5\CancelScreenSaver.net5.csproj", "{493588E0-CBDA-4DD9-A9DB-DEBF66DAD916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493588E0-CBDA-4DD9-A9DB-DEBF66DAD916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493588E0-CBDA-4DD9-A9DB-DEBF66DAD916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493588E0-CBDA-4DD9-A9DB-DEBF66DAD916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493588E0-CBDA-4DD9-A9DB-DEBF66DAD916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3EFF10D-80AF-4F0E-92A2-8A689E5C6507}
+	EndGlobalSection
+EndGlobal
